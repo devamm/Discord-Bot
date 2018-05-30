@@ -9,7 +9,7 @@ import net.dv8tion.jda.core.JDABuilder;
 public class Bot {
 	public static JDA jda;
 	
-	public static final String BOT_TOKEN = "NDI3MTk0NDYxNjg1MDIyNzMw.DZg_Yw.yLOkheP4B6bd6ii5Zbahkd8yTI8";
+	public static final String BOT_TOKEN = "Token removed for GitHub Upload";
 	
 	public static void main (String[] args){
 		
